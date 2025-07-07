@@ -70,5 +70,6 @@ The tracker is optimized for **1440p (2560x1440)**. To change resolution:
 Enjoying this tracker? Follow me on Twitch for live Phasmophobia streams where I use this tracker!
 
 **[🎮 twitch.tv/incredicate](https://twitch.tv/incredicate)**
+**[✖️ x.com/incredicate](https://x.com/Incredicate)**
 
 *See the tracker in action during my ghost hunting adventures!*
